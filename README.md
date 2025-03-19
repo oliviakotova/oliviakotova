@@ -1,12 +1,15 @@
 ## Hi 👋 My name is Olivia
 Web Developer & Web Designer
 
+
+
 🌍 I'm based in Australia
 
+🖥️ My portfolio [here](https://oliviakotova-ced1437fd5ca.herokuapp.com) 
 
-🖥️ See my portfolio [here](https://oliviakotova-ced1437fd5ca.herokuapp.com) 
+✉️ Contact me [4oliviakotova@gmail.com](mailto:4oliviakotova@gmail.com)
 
-✉️ You can contact me at [4oliviakotova@gmail.com](mailto:4oliviakotova@gmail.com)
+
 
 🚀 Skills
 

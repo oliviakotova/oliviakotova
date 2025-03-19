@@ -2,8 +2,11 @@
 Web Developer & Web Designer
 
 🌍 I'm based in Australia
+
+
 🖥️ See my portfolio [here](https://oliviakotova-ced1437fd5ca.herokuapp.com) 
-✉️ You can contact me at [4oliviakotova@gmail.com](mailto:4oliviakotova@gmail.com)  
+
+✉️ You can contact me at [4oliviakotova@gmail.com](mailto:4oliviakotova@gmail.com)
 
 🚀 Skills
 

@@ -3,7 +3,7 @@ Web Developer & Web Designer
 
 
 
-🌍 I'm based in Australia
+🌍 I'm based in Australia, Brisbane
 
 🖥️ My portfolio [here](https://oliviakotova-ced1437fd5ca.herokuapp.com) 
 
